@@ -1,0 +1,5 @@
+.block {
+    height: -webkit-calc(100vh - 48px);
+    height: -moz-calc(100vh - 48px);
+    height: calc(100vh - 48px);
+  } 
