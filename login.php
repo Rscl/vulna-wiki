@@ -79,6 +79,7 @@ include "head.php";
         </label>
       </div>
       <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      <p class="mt-2 mb-1">Don't have account? Signup <a href="/signup.php">here</a>!</p>
       <p class="mt-5 mb-3 text-muted">© 2020 <a href="https://github.com/Rscl">Rscl</a> / <a href="https://github.com/Rscl/vulna-wiki">Vulna-wiki</a></p>
     </form>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
